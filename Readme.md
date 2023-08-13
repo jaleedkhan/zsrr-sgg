@@ -2,7 +2,7 @@
 
 This readme file provides an overview of the codebase for the paper implementation. The download links and destination paths for the dataset, Faster RCNN model and CSKG embeddings are provided. The notebooks [ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb](ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb) and [ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb](ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb) can be used to reproduce the results. A thoroughly documented codebase/toolkit with examples/demo of the proposed method will be released soon.
 
-![ZSRR-SGG-Page-3 drawio](https://github.com/jaleedkhan/zsrr-sgg/assets/71158275/a8c3e830-7560-40d1-bbd3-ad6e79e73235)
+![Block Diagram](https://github.com/jaleedkhan/zsrr-sgg/assets/71158275/61d6fac4-3683-46a6-b1b6-01c433203d5f)
 
 ## Requirements
 - Ubuntu 18.04
