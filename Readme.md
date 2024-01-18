@@ -1,4 +1,4 @@
-# Common Sense Knowledge-based Zero-Shot Relationship Retrieval for Generalized SGG
+# KnowZRel: Common Sense Knowledge-based Zero-Shot Relationship Retrieval for Generalized SGG
 
 This readme file provides an overview of the codebase for the paper implementation. The download links and destination paths for the dataset, Faster RCNN model and CSKG embeddings are provided. The notebooks [ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb](ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb) and [ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb](ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb) can be used to reproduce the results. A thoroughly documented codebase/toolkit with examples/demo of the proposed method will be released soon.
 
