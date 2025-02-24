@@ -1,5 +1,8 @@
 # KnowZRel: Common Sense Knowledge-based Zero-Shot Relationship Retrieval for Generalized SGG
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/knowzrel-common-sense-knowledge-based-zero/scene-graph-generation-on-visual-genome)](https://paperswithcode.com/sota/scene-graph-generation-on-visual-genome?p=knowzrel-common-sense-knowledge-based-zero)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/knowzrel-common-sense-knowledge-based-zero/scene-graph-generation-on-gqa)](https://paperswithcode.com/sota/scene-graph-generation-on-gqa?p=knowzrel-common-sense-knowledge-based-zero)
+
 This readme file provides an overview of the codebase for the paper implementation. The download links and destination paths for the dataset, Faster RCNN model and CSKG embeddings are provided. The notebooks [ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb](ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb) and [ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb](ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb) can be used to reproduce the results. A thoroughly documented codebase/toolkit with examples/demo of the proposed method will be released soon.
 
 ![Block Diagram](https://github.com/jaleedkhan/zsrr-sgg/assets/71158275/61d6fac4-3683-46a6-b1b6-01c433203d5f)
