@@ -2,6 +2,8 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/knowzrel-common-sense-knowledge-based-zero/scene-graph-generation-on-visual-genome)](https://paperswithcode.com/sota/scene-graph-generation-on-visual-genome?p=knowzrel-common-sense-knowledge-based-zero)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/knowzrel-common-sense-knowledge-based-zero/scene-graph-generation-on-gqa)](https://paperswithcode.com/sota/scene-graph-generation-on-gqa?p=knowzrel-common-sense-knowledge-based-zero)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/knowzrel-common-sense-knowledge-based-zero/object-detection-on-visual-genome)](https://paperswithcode.com/sota/object-detection-on-visual-genome?p=knowzrel-common-sense-knowledge-based-zero)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/knowzrel-common-sense-knowledge-based-zero/object-detection-on-gqa)](https://paperswithcode.com/sota/object-detection-on-gqa?p=knowzrel-common-sense-knowledge-based-zero)
 
 This readme file provides an overview of the codebase for the paper implementation. The download links and destination paths for the dataset, Faster RCNN model and CSKG embeddings are provided. The notebooks [ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb](ZS_SGG_FasterRCNN/ZS_SGG_FasterRCNN.ipynb) and [ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb](ZS_SGG_CSKG/j_SG_CSKG_ZeroShot.ipynb) can be used to reproduce the results. A thoroughly documented codebase/toolkit with examples/demo of the proposed method will be released soon.
 
